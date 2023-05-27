@@ -1,0 +1,69 @@
+{
+  "freelancers": [
+    {
+      "name": "Ashish ",
+      "email": "ashishpal1717@gmail.com",
+      "password": "ashish",
+      "profession": "Web Developer",
+      "skills": [
+        "html",
+        "css",
+        "js",
+        "nodejs",
+        "mongodb"
+      ],
+      "hourly_rate": "600",
+      "profile_picture": "sdnjdfdsfkjsdnfskjn",
+      "isBooked": true,
+      "id": 1
+    },
+    {
+      "name": "Shiva",
+      "email": "shiva@gmail.com",
+      "password": "shiva",
+      "profession": "Graphic Designer",
+      "skills": [
+        "html",
+        "css",
+        "bootstrap"
+      ],
+      "hourly_rate": "455",
+      "isBooked": false,
+      "profile_picture": "dsfsjsdfnsfjkn",
+      "id": 2
+    },
+    {
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "password": "krishna",
+      "profession": "Web Developer",
+      "skills": [
+        "html",
+        "css",
+        "js",
+        "nodejs",
+        "mysql"
+      ],
+      "isBooked": false,
+      "hourly_rate": "550",
+      "profile_picture": "dfnvmn",
+      "id": 3
+    },
+    {
+      "name": "Ritesh",
+      "email": "ritesh@gmail.com",
+      "password": "ritesh",
+      "profession": "Student",
+      "skills": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "isBooked": true,
+      "hourly_rate": "100",
+      "profile_picture": "sdnjdfdsfkjsdnfskjn",
+      "id": 4
+    }
+  ]
+}
